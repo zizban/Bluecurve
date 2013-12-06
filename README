@@ -1,0 +1,25 @@
+This is a port of Red Hat's Bluecurve theme to recent versions of GNOME and current versions of MATE.
+
+www.mate-desktop.org
+
+This package contains:
+
+Bluecurve Icon Theme from the Red Hat Art project.
+
+BlueCurve Metacity Theme from Fedora Project.
+
+Bluecurve-Clearlooks 0.5.2
+
+www.gnome-look.org
+
+I only changed one line in the Bluecurve-Looks theme to make it work with MATE. It does not effect how it works with GNOME.
+
+Tested with GNOME 2.28 and up.
+
+Tested with MATE 1.1
+
+INSTALL
+
+After unpacking the main tarball, drag and drop included tarballs to the GNOME/MATE Appearence prefernce panel.
+
+turkel.christopher@gmail.com
